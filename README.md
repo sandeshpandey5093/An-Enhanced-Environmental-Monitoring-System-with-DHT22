@@ -9,7 +9,8 @@ DHT22 sensor is chosen for its superior accuracy, wider detection range, and rel
 
 ## System Architecture 
 
-!C:\Users\sapan\OneDrive\Desktop\arduino_diagram.png
+![arduino_diagram](https://github.com/sandeshpandey5093/An-Enhanced-Environmental-Monitoring-System-with-DHT22/assets/58653229/43abd351-a68d-4153-aea8-2deee9cc4b2c)
+
 *Diagram 1: System Architecture of Raspberry Pi*
 
 ![Diagram 2](URL_to_diagram2)

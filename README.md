@@ -9,19 +9,22 @@ DHT22 sensor is chosen for its superior accuracy, wider detection range, and rel
 
 ## System Architecture 
 
-![arduino_diagram](https://github.com/sandeshpandey5093/An-Enhanced-Environmental-Monitoring-System-with-DHT22/assets/58653229/43abd351-a68d-4153-aea8-2deee9cc4b2c)
+![raspberry_pi_diagram](https://github.com/sandeshpandey5093/An-Enhanced-Environmental-Monitoring-System-with-DHT22/assets/58653229/b3918d0f-cca1-40af-a216-256daaffc189)
 
 *Diagram 1: System Architecture of Raspberry Pi*
 
-![Diagram 2](URL_to_diagram2)
+![arduino_diagram](https://github.com/sandeshpandey5093/An-Enhanced-Environmental-Monitoring-System-with-DHT22/assets/58653229/7c824ac6-7cf5-4c6f-8d01-e290265b7f15)
+
 *Diagram 2: System Architecture of Arduino*
 
 ## Output
 
-![Diagram 3](URL_to_diagram3)
+![output_raspberry_pi](https://github.com/sandeshpandey5093/An-Enhanced-Environmental-Monitoring-System-with-DHT22/assets/58653229/c198a4c4-d308-4461-98cd-fe6222f7636c)
+
 *Diagram 3: Output of Raspberry Pi*
 
-![Diagram 4](URL_to_diagram4)
+![output_arduino](https://github.com/sandeshpandey5093/An-Enhanced-Environmental-Monitoring-System-with-DHT22/assets/58653229/c2762546-2246-4ef4-a4cf-c4b297e97f50)
+
 *Diagram 4: Output of Arduino*
 
 ## Conclusion

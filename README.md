@@ -34,3 +34,9 @@ Raspberry Pi offers powerful processing capabilities, ideal for complex data ana
 Arduino provides a simpler, more hardware-focused approach, suitable for standalone sensor-based projects.
 The DHT22's ease of use, affordability, and accuracy make it an excellent choice for professionals in environmental monitoring. The integration of the DHT22 sensor with Raspberry Pi and Arduino opens up a myriad of possibilities for environmental monitoring and data-driven decision-making. This system paves the way for innovative solutions in various fields, such as agriculture, smart homes, and climate research.
 
+## References
+
+https://www.adafruit.com/product/385
+https://wokwi.com/projects/344892587898831442
+https://wokwi.com/projects/357621096158139393
+

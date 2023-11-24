@@ -36,7 +36,8 @@ The DHT22's ease of use, affordability, and accuracy make it an excellent choice
 
 ## References
 
-https://www.adafruit.com/product/385
-https://wokwi.com/projects/344892587898831442
-https://wokwi.com/projects/357621096158139393
+- [Adafruit DHT22 Sensor Product Page](https://www.adafruit.com/product/385) - Provides detailed information and specifications for the DHT22 sensor.
+- [Wokwi Project: DHT22 with Arduino](https://wokwi.com/projects/344892587898831442) - An example project demonstrating the use of the DHT22 sensor with Arduino.
+- [Wokwi Project: DHT22 with Raspberry Pi](https://wokwi.com/projects/357621096158139393) - An example project showcasing the integration of the DHT22 sensor with Raspberry Pi.
+
 
